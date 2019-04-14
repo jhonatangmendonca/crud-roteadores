@@ -1,0 +1,38 @@
+body{
+max-width: 100vw;
+margin: 0;
+padding: 0;
+background-color: whitesmoke;
+}
+
+header{
+max-width: 100vw;
+height: 7vh;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-bottom: 10px;
+}
+
+h1{
+font-size: 2em;
+
+}
+
+.fundo{
+max-width: 100vw;
+margin: 0 auto;
+}
+
+.botoes{
+width: 200px;
+height: 10vh;
+display: flex;
+justify-content: space-around;
+align-items: center;
+font-size: 1em;  
+}
+
+.img_router{
+    max-width: 80px;
+}
